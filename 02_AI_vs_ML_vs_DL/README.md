@@ -38,11 +38,11 @@ ML is a major approach inside AI where systems learn from data instead of being 
 
 3. The system builds a model that can make predictions or decisions on new data.
 
-**Formal intuition (often quoted):**
+**Formal intuition:**
 
-A program “learns” if its performance on a task improves with experience (data).
+``A program “learns” if its performance on a task improves with experience (data).``
 
-**Types of ML (simplified):**
+**Types of ML:**
 
 1. Supervised learning: Learn from labeled examples (e.g., photos labeled “cat” or “dog”) to predict labels for new data.
 
